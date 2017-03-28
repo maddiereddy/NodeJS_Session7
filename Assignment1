@@ -1,0 +1,33 @@
+Madhavis-MacBook-Pro:NodeJS_Session7 maddie$ node
+> var x = 8
+undefined
+> var y = 7
+undefined
+> x + y
+15
+> 
+(To exit, press ^C again or type .exit)
+> 
+Madhavis-MacBook-Pro:NodeJS_Session7 maddie$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

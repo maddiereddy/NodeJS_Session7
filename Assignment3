@@ -1,0 +1,31 @@
+Companies using NodeJS:
+
+1. Netflix
+2. Uber
+3. Ebay & Paypal
+4. LinkedIn
+5. GoDaddy
+6. Groupon
+7. Wall Street Journal
+8. Walmart
+9. CBS
+10. Yahoo
+11. Pinterest
+12. HP
+13. Medium
+14. Hapi
+15. New York Times
+
+Why to use NodeJS:
+
+1. Highly constructive connection management
+2. Supports web projects of exceptionally high load with swift response
+3. Excellent coupling between client and server
+4. Cloud scalability
+5. Compatibility
+6. Built almost twice as fast with fewer people.
+7. Written in 33% fewer lines of code
+8. Constructed with 40% fewer files
+9. Handles asynchronous I/O requests with a non-blocking, single-threaded event loop. It is particularly well-suited to distributed systems that make a lot of network requests.
+10. Is excellent for quick iteration; programs can be inspected and errors can be addressed on the fly without requiring a restart, so developers can publish and deploy new code constantly.
+11. The active open source community continuously optimizes the technology; it gets better, all the time, practically on its own.
